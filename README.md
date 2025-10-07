@@ -63,3 +63,14 @@ We picked this stack to ensure scalability, speed, and smooth integration across
 ## Summary
 
 Re-CIRCLE offers a reliable, scalable platform for product rentals by combining modern web technologies with powerful big data processing. It’s built to optimize user experience while providing valuable business insights through data.
+
+---
+
+## Project Media
+
+### Documentation PDF
+[Download the project documentation (PDF)](https://drive.google.com/file/d/1QpImnXxW9UuXKzVS0tZM92xBa0EqgZ_5/view?usp=sharing)
+
+### Demo Video
+[Watch the demo video]([https://your-video-link.com/video](https://drive.google.com/file/d/1LEyi8erdB_A5YvFj5bOvv4Xjslq8Ye4I/view?usp=sharing))
+
